@@ -27,7 +27,7 @@ const styles = theme => ({
     }
 })
 
-const databaseURL = "https://word-cloud-f4a82.firebaseio.com";
+const databaseURL = "https://word-cloud-c08c4.firebaseio.com";
 
 class Texts extends React.Component {
 
